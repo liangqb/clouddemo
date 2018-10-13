@@ -9,4 +9,7 @@ public interface UserService {
     public List<Category> findAll();
 
     public Category findOne(Integer userId);
+
+
+
 }

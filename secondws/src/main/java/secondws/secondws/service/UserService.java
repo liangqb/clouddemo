@@ -11,5 +11,4 @@ public interface UserService {
     public Category findOne(Integer userId);
 
 
-
 }

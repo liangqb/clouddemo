@@ -18,6 +18,7 @@ public class UserServiceImpl implements UserService {
     public List<Category> findAll() {
         System.out.println("clouddemo2");
         System.out.println("clouddemo1");
+        System.out.println("clouddemo5");
         return userMapper.findAll();
     }
 

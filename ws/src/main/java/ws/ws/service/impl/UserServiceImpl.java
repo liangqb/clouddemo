@@ -19,6 +19,7 @@ public class UserServiceImpl implements UserService {
         System.out.println("clouddemo2");
         System.out.println("clouddemo1");
         System.out.println("clouddemo8");
+        System.out.println("clouddemo9");
         return userMapper.findAll();
     }
 

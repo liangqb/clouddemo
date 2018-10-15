@@ -16,13 +16,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public List<Category> findAll() {
-        System.out.println("clouddemo2");
-        System.out.println("clouddemo1");
-        System.out.println("clouddemo4");
-        System.out.println("clouddemo5");
-        System.out.println("clouddemo6");
-        System.out.println("clouddemo8");        
-        System.out.println("clouddemo9");
+        System.out.println("1001");
         return userMapper.findAll();
     }
 
